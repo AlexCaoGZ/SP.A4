@@ -1,1 +1,1 @@
-SUBDIRS = src
+SUBDIRS = chat-server/src
