@@ -1,0 +1,7 @@
+Mon Apr 04 00:47:04 2022: build-wrapper, version 6.32 (win-x86-64)
+Mon Apr 04 00:47:04 2022: isWow64: 0
+Mon Apr 04 00:47:04 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Mon Apr 04 00:47:04 2022: current directory: D:\SchoolStuff\Code\2022_Winter\SP\A4\SP.A4\chat-server
+Mon Apr 04 00:47:04 2022: cwd: <D:\SchoolStuff\Code\2022_Winter\SP\A4\SP.A4\chat-server>
+Mon Apr 04 00:47:04 2022: out-dir absolute path: <D:\SchoolStuff\Code\2022_Winter\SP\A4\SP.A4\chat-server\build_wrapper_output_directory>
+Mon Apr 04 00:47:04 2022: command line received: <MSBuild.exe /t:Rebuild>
