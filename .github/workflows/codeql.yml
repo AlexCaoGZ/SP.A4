@@ -61,7 +61,9 @@ jobs:
       working-directory: ./chat-client/
       run: |
        make
+       make
        cd  ../chat-server
+       make
        make
 
 
