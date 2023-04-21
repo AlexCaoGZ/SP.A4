@@ -58,7 +58,7 @@ jobs:
     # Autobuild attempts to build any compiled languages  (C/C++, C#, Go, or Java).
     # If this step fails, then you should remove it and run the build manually (see below)
     - name: Autobuild
-	      working-directory: ./chat-client/
+      working-directory: ./chat-client/
       run: make
 
     # ℹ️ Command-line programs to run using the OS shell.
